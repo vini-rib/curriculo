@@ -1,0 +1,46 @@
+*{
+    font-family: sans-serif;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    font-size: 22px;
+}
+
+img{
+    border-radius: 50%;
+    max-width: 250px;
+    margin: 0.5rem;
+}
+
+header{
+    margin-top: 0;
+    padding: 20px;
+    background-color: rgb(70, 70, 70);
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+  
+h2{
+    text-align:center;
+    margin:0;
+}
+
+section{
+    margin: 22px;
+    padding: 10px;
+    border-radius: 11px;
+    background-color: rgb(231, 231, 231);
+    box-shadow: rgba(0,0,0,1) 0 0 10px;
+    font-size:20px;
+}
+  
+footer{
+    padding: 1px;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
