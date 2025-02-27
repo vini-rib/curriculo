@@ -1,5 +1,6 @@
 *{
     font-family: sans-serif;
+    margin:0px;
 }
 
 body{
@@ -39,6 +40,7 @@ section{
 }
   
 footer{
+    margin:0px;
     padding: 1px;
     background-color: black;
     color: rgb(255, 255, 255);
